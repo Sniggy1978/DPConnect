@@ -1,6 +1,7 @@
 // DtSearchManager.cs — Final Run4 (reflection-only, diagnostics + defaults)
 // Target: .NET Framework 4.8.1 (x64)
 // Note : Compiles without dtSearchNetApi4.dll. At runtime, ensure dtSearchNetApi4.dll + dtengine64.dll are available.
+// Test change for PR
 
 using System;
 using System.IO;
